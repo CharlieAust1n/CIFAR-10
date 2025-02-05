@@ -17,6 +17,8 @@ The 10 categories which make up the 60,000 images are:
 * Ship
 * Truck
 
+For more information, visit the CIFAR-10 homepage here: https://www.cs.toronto.edu/~kriz/cifar.html
+
 ## Model Used
 The model I used to train on this dataset was a **Convolutional Neural Network** (will be refered to as a CNN).
 A CNN 
